@@ -1,1 +1,3 @@
-# kaggle-the-allen-ai-science-challenge
+# Kaggle: The Allen AI Science Challenge
+
+TO BE EDITED
